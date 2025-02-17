@@ -49,7 +49,7 @@ The primary dataset used for this analysis is the CSV file estimates use of wate
   
    ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/Access%20to%20water%20distribution%20on%20a%20national%2C%20urban%20and%20rural%20level.png)
    
--  31% of our population has water infrastructure in their homes
+-  it seems that the smaller the population size, the percentage of people having access to basic water services is bigger 
   
    ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Pct%20number%20of%20people%20per%20type%20of%20water%20source.png)
 
