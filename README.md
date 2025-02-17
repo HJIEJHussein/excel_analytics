@@ -49,7 +49,7 @@ The primary dataset used for this analysis is the CSV file estimates use of wate
   
    ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/Access%20to%20water%20distribution%20on%20a%20national%2C%20urban%20and%20rural%20level.png)
    
--  it seems that the smaller the population size, the percentage of people having access to basic water services is bigger 
+-  it seems that the bigger the population size, the percentage of people having access to basic water services is bigger 
   
    ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/access%20to%20water%20distribution%20based%20on%20the%20national%20population%20size.png)
 
@@ -61,6 +61,7 @@ The primary dataset used for this analysis is the CSV file estimates use of wate
    
    ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/Rural%20share%20Vs%20Access%20to%20water%20services.png)
    
--  18% of our people are using wells of which, but within that, only 28% are clean. These are mostly in Sokoto, Kilimani and Akatsi.
+-  As urbanisation increases, so does the share of the population with basic water access, and as GNI increases, limited, unimproved, and surface water access decreases.
+-  More people included in this dataset live in lower-middle-income countries than in any of the other types of economies.
   
    ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/pct%20of%20wells%20per%20results.png)
