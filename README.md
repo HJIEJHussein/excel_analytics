@@ -57,24 +57,10 @@ The primary dataset used for this analysis is the CSV file estimates use of wate
 
    ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/Access%20to%20water%20service%20based%20on%20the%20urban%20population%20share.png)
 
--  The more a city is rurarilised the less it has access to basic water
+-  The more a city is ruralised the less it has access to basic water
    
    ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/Rural%20share%20Vs%20Access%20to%20water%20services.png)
    
 -  18% of our people are using wells of which, but within that, only 28% are clean. These are mostly in Sokoto, Kilimani and Akatsi.
   
    ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/pct%20of%20wells%20per%20results.png)
-   
-   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/pct%20of%20clean%20wells%20per%20province.png)
-   
--  Our citizens often face long wait times for water, averaging more than 120 minutes
-  
-   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20time%20of%20queue.png)
-
--  Queues are very long on Saturdays and Wednesdays and Sundays have the shortest queues
-  
-   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20queue%20time%20per%20day%20of%20the%20week.png)
-   
--  Queues are longer in the mornings and evenings.
-  
-   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20queue%20time%20per%20hours%20of%20the%20day.png)
