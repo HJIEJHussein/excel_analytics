@@ -43,7 +43,7 @@ The primary dataset used for this analysis is the CSV file estimates use of wate
 -  The population number of the dataset in 2020 is 7.786 billions compared to 7.821 billions in the official statistics making it only 0.44 % of deviation
 -  There is no obvious relationship between the volume of the population size and the rural and urban share
   
-   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Number%20of%20sources%20per%20location_type.png)
+   ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/National%20population%20VS%20Urban%20and%20rural%20share.png)
    
 -  43% of our people are using shared taps. 2000 people often share one tap.
   
