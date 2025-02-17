@@ -12,14 +12,12 @@
 
 ### Project Overview
 
-This project aims to analyse data gathered about the average time it takes the population of Magi Ndogo to obtain water from the different 
-water sources as well as the data about the microbiological nd chemical status about those water sources
-The Goal of this project is to privide an action plan we will carry on in order to provide clean water to the population and with a reduced 
-average time for Queuing 
+In this project, we’ll investigate access to safe and affordable drinking water focussing on inequalities in services levels between different countries and regions.
 
 ### Data source 
 
-The primary dataset used for this analysis is the script file in the SQL script files rubric of the "md_water_services.mwb" file, containing the database of the project [https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Md_water_services.mwb] and also the excel file "Md_water_services_data" for the Power BI visualisations and report [https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Md_water_services_data.xlsx] 
+The primary dataset used for this analysis is the CSV file estimates use of water in 2020 provided data from the WHO/UNICEF Joint Monitoring Programme for water supply, sanitation, and hygiene (JMP). 
+[]
 
 ### Tools
 
