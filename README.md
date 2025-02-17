@@ -27,11 +27,10 @@ The primary dataset used for this analysis is the CSV file estimates use of wate
 
 - How do the world population estimates compare to the provided dataset populations?
 - How does the urban population share compare to the rural population?
-- What is the tendency and spread of the different water access features?
 - How do these measures of water access compare across different types of areas?
 - What does the national access to water look like based on national population size?
 - What does the urban access to water look like based on urban population size?
-- What does the rural access look like?
+- What does the rural access look like  on urban population size ?
 - What is the effect of national population size and urbanisation on GNI and water access?
 
 ### Data Analysis
@@ -45,7 +44,8 @@ The primary dataset used for this analysis is the CSV file estimates use of wate
   
    ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/National%20population%20VS%20Urban%20and%20rural%20share.png)
    
--  43% of our people are using shared taps. 2000 people often share one tap.
+-  It seems that most of people have acces to basic water services on a national level, the urban areas have more access to basic water services compared to rural areas that counts more on the limited, unimproved 
+   and surface services
   
    ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Pct%20number%20of%20people%20per%20type%20of%20water%20source.png)
    
