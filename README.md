@@ -64,4 +64,4 @@ The primary dataset used for this analysis is the CSV file estimates use of wate
 -  As urbanisation increases, so does the share of the population with basic water access, and as GNI increases, limited, unimproved, and surface water access decreases.
 -  More people included in this dataset live in lower-middle-income countries than in any of the other types of economies.
   
-   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/pct%20of%20wells%20per%20results.png)
+   ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/GNI%20vs%20Urbanisation%20VS%20Population%20size.png)
