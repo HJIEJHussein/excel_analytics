@@ -57,12 +57,9 @@ The primary dataset used for this analysis is the CSV file estimates use of wate
 
    ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/Access%20to%20water%20service%20based%20on%20the%20urban%20population%20share.png)
 
--  45% face non-functional systems due to issues with pipes, pumps, and reservoirs. Towns like Amina, the rural parts of Amanzi, and a couple
-   of towns across Akatsi and Hawassa have broken infrastructure.
+-  The more a city is rurarilised the less it has access to basic water
    
-   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/percentage%20of%20people%20per%20source%20type%20and%20per%20province%20name.png)
-   
-   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/pct%20of%20tap%20in%20home%20broken%20by%20town%20name%20and%20province%20name.png)
+   ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/Rural%20share%20Vs%20Access%20to%20water%20services.png)
    
 -  18% of our people are using wells of which, but within that, only 28% are clean. These are mostly in Sokoto, Kilimani and Akatsi.
   
