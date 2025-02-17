@@ -17,12 +17,11 @@ In this project, we’ll investigate access to safe and affordable drinking wate
 ### Data source 
 
 The primary dataset used for this analysis is the CSV file estimates use of water in 2020 provided data from the WHO/UNICEF Joint Monitoring Programme for water supply, sanitation, and hygiene (JMP). 
-[]
+[https://github.com/HJIEJHussein/excel_analytics/blob/main/Estimates%20on%20the%20use%20of%20water%20(2020).csv]
 
 ### Tools
 
-- SQL Server : Data analysis
-- Power BI : Creating Reports
+- Googlesheets : Data cleaning and analysis |https://docs.google.com/spreadsheets/d/1sJNXuh-VJF-DlMuQn7fDALx6mCFMx2RhQ5losO_nBoY/edit?usp=sharing]
 
 ### Exploratory Data Analysis
 
