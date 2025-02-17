@@ -47,9 +47,7 @@ The primary dataset used for this analysis is the CSV file estimates use of wate
 -  It seems that most of people have acces to basic water services on a national level, the urban areas have more access to basic water services compared to rural areas that counts more on the limited, unimproved 
    and surface services
   
-   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Pct%20number%20of%20people%20per%20type%20of%20water%20source.png)
-   
-   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/average%20number%20of%20people%20per%20type%20of%20water%20source.png)
+   ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/Access%20to%20water%20distribution%20on%20a%20national%2C%20urban%20and%20rural%20level.png)
    
 -  31% of our population has water infrastructure in their homes
   
