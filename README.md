@@ -51,7 +51,7 @@ The primary dataset used for this analysis is the CSV file estimates use of wate
    
 -  it seems that the smaller the population size, the percentage of people having access to basic water services is bigger 
   
-   ![alt text](https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Pct%20number%20of%20people%20per%20type%20of%20water%20source.png)
+   ![alt text]([https://github.com/HJIEJHussein/Hussein-s_portfolio/blob/main/Pct%20number%20of%20people%20per%20type%20of%20water%20source.png)
 
 -  45% face non-functional systems due to issues with pipes, pumps, and reservoirs. Towns like Amina, the rural parts of Amanzi, and a couple
    of towns across Akatsi and Hawassa have broken infrastructure.
