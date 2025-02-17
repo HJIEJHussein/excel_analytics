@@ -53,6 +53,10 @@ The primary dataset used for this analysis is the CSV file estimates use of wate
   
    ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/access%20to%20water%20distribution%20based%20on%20the%20national%20population%20size.png)
 
+-  The more a city is urbanised the more it has access to basic water
+
+   ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/Access%20to%20water%20service%20based%20on%20the%20urban%20population%20share.png)
+
 -  45% face non-functional systems due to issues with pipes, pumps, and reservoirs. Towns like Amina, the rural parts of Amanzi, and a couple
    of towns across Akatsi and Hawassa have broken infrastructure.
    
