@@ -77,13 +77,6 @@
 -  Countries in the Sub-Saharan Africa region observed a greater spread in rural and national ARC values than other regions.
 
   ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/ARC_n%2C%20ARC_u%2C%20ARC_r%20VS%20regions.png)
-
-
-
-
-
-
-   ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/GNI%20vs%20Urbanisation%20VS%20Population%20size.png)
    
 
    
