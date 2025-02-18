@@ -31,6 +31,8 @@
 - What does the urban access to water look like based on urban population size?
 - What does the rural access look like  on urban population size ?
 - What is the effect of national population size and urbanisation on GNI and water access?
+- What can we say about the improvement in the access to basic water services, where did it increase most between 2015 and 2020, in rural areas or urban areas ?,
+  and in wich regions is this improvement better ?
 
 ### Data Analysis
 
@@ -64,3 +66,19 @@
 -  More people included in this dataset live in lower-middle-income countries than in any of the other types of economies.
   
    ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/GNI%20vs%20Urbanisation%20VS%20Population%20size.png)
+
+-  Although access to basic water services on a national level increased for more countries, more countries had a decrease in access in urban than rural areas, the ARC_Diff
+   represents the difference between the Urban Annual rate change and the Rural Annual rate change
+
+   ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/GNI%20vs%20Urbanisation%20VS%20Population%20size.png)
+   
+
+-  The average population size per country in Sub-Saharan Africa is smaller than that of most other regions.
+-  Countries in the Sub-Saharan Africa region observed a greater spread in rural and national ARC values than other regions.
+
+   ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/GNI%20vs%20Urbanisation%20VS%20Population%20size.png)
+   
+
+   
+
+
