@@ -70,7 +70,7 @@
 -  Although access to basic water services on a national level increased for more countries, more countries had a decrease in access in urban than rural areas, the ARC_Diff
    represents the difference between the Urban Annual rate change and the Rural Annual rate change
 
-   ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/GNI%20vs%20Urbanisation%20VS%20Population%20size.png)
+   ![alt text](https://github.com/HJIEJHussein/excel_analytics/blob/main/ARC_Diff%20Distribution.png)
    
 
 -  The average population size per country in Sub-Saharan Africa is smaller than that of most other regions.
